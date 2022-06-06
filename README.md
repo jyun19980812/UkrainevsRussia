@@ -1,6 +1,6 @@
-#Why Russia Should Stop
+# Why Russia Should Stop
 
-###Authors: Jangwon Yun, Victor Ahn, Yongjung Lee
+### Authors: Jangwon Yun, Victor Ahn, Yongjung Lee
 
 This file is the Markdown file that teaches you about the instruction to run this file.
 This file is best suited for Jupyter Notebook due to the `ipywidgets`, so we recommend
